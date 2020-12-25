@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Theophile Brut 1er, Louis Roederer",
+    "price": "1200",
+    "url": "/shop-images/1.png",
+    "article": "00001",
+    "color": "white sparkling"
+  },
+  {
+    "name": "Louis Roederer Brut Premier",
+    "price": "2300",
+    "url": "/shop-images/2.png",
+    "article": "00002",
+    "color": "white sparkling"
+  },
+  {
+    "name": "Louis Roederer Cristal Vintage Gift Box 2008",
+    "price": "3000",
+    "url": "/shop-images/3.png",
+    "article": "00003",
+    "color": "white sparkling"
+  },
+  {
+    "name": "Louis Roederer Brut Rose DeLuxe Gift Box 2011",
+    "price": "6000",
+    "url": "/shop-images/4.png",
+    "article": "00004",
+    "color": "rose sparkling"
+  },
+  {
+    "name": "Folonari Corposo",
+    "price": "200",
+    "url": "/shop-images/5.png",
+    "article": "00005",
+    "color": "red dry"
+  },
+  {
+    "name": "Medusa Albarino",
+    "price": "900",
+    "url": "/shop-images/6.png",
+    "article": "00006",
+    "color": "white dry"
+  },
+  {
+    "name": "Pagos de Galir Godello",
+    "price": "750",
+    "url": "/shop-images/7.png",
+    "article": "00007",
+    "color": "white dry"
+  },
+  {
+    "name": "Campagnola Soave Classico",
+    "price": "150",
+    "url": "/shop-images/8.png",
+    "article": "00008",
+    "color": "white dry"
+  },
+  {
+    "name": "Melini Chianti DOCG Pian del Masso",
+    "price": "687",
+    "url": "/shop-images/9.png",
+    "article": "00009",
+    "color": "red dry"
+  },
+  {
+    "name": "Southern Ocean Sauvignon Blanc Marlborough",
+    "price": "960",
+    "url": "/shop-images/10.png",
+    "article": "00010",
+    "color": "white dry"
+  },
+  {
+    "name": "Barocco Primitivo Puglia",
+    "price": "330",
+    "url": "/shop-images/11.png",
+    "article": "00011",
+    "color": "white dry"
+  },
+  {
+    "name": "Fattoria Le Pupille Morellino di Scansano",
+    "price": "660",
+    "url": "/shop-images/12.png",
+    "article": "00012",
+    "color": "white dry"
+  }
+]
